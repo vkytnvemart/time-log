@@ -18,7 +18,7 @@ A simple time tracking system built in Laravel where users can log tasks by date
    ```bash
    git clone https://github.com/vkytnvemart/time-log.git
    cd laravel-time-log
-composer install
-php artisan key:generate
-php artisan migrate
-php artisan serve
+   composer install
+   php artisan key:generate
+   php artisan migrate
+   php artisan serve
