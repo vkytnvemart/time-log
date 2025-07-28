@@ -30,7 +30,7 @@
             <div class="taskEntry grid md:grid-cols-3 gap-4 mb-4">
                 <div>
                     <label class="block text-sm font-medium text-gray-700 mb-1">🧾 Task Description</label>
-                    <input type="text" name="description[]" class="w-full border rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-400" required placeholder="E.g., Fix bug in dashboard">
+                    <input type="text" name="description[]" class="w-full border rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-400" required placeholder="Description">
                 </div>
                 <div>
                     <label class="block text-sm font-medium text-gray-700 mb-1">⏱️ Hours</label>
